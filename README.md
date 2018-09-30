@@ -5,18 +5,18 @@ The agenda was to take them through a day of an analyst's life starting from imp
 
 ## Topics taught
 
-1. Pandas 
+**1. Pandas **
     * Series Operations
     * Importing from CSV/Excel
     * Exploratory data Analysis
     * Data Cleaning 
     * Saving to CSV/Excel
     
-2. Numpy
+**2. Numpy**
     * Creating arrays
     * Indexing/Slicing
     * Operations
     * Math functions
 
-3. Short preview into Matplotlib
+**3. Short preview into Matplotlib**
     * Creating a basic plot
